@@ -4,4 +4,4 @@ It's fizz buzz with Rust.
 
 Runs from the command line.
 
-clone the repo then run ```cargo run``` to see it in action.
+Fork the repo / download the zip then run ```cargo run``` to see it in action.
